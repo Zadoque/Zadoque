@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 📊 Linguagens mais utilizadas
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Zadoque&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zadoque&theme=2143)
